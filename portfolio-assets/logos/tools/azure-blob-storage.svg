@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="224" height="64" viewBox="0 0 224 64" role="img">
-  <rect x="0.5" y="0.5" width="223" height="63" rx="4" fill="#fff" stroke="#e2e8e5" />
-  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 41.754 48.143" x="14" y="12" preserveAspectRatio="xMidYMid meet">
-    <path fill="#181818" fill-rule="evenodd" d="M5.596 0C2.583 0 0 2.874 0 6.227v35.689c0 3.353 2.583 6.227 5.596 6.227h30.562c3.013 0 5.596-2.874 5.596-6.227V9.58L33.144 0h-4.95zm0 3.352h26.257v7.904h6.887v30.66a2.652 2.88 0 0 1-2.582 2.873H5.596c-1.506 0-2.582-1.196-2.582-2.873V6.226c0-1.675 1.076-2.874 2.582-2.874" />
-  </svg>
-  <text x="65" y="37" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#202825">Azure Blob Storage</text>
-</svg>
